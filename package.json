@@ -1,0 +1,27 @@
+{
+  "name": "@sl-code-lords/holidays",
+  "version": "1.0.0",
+  "description": "generate holidays in a specific year using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-CODE-LORDS/Holidays.git"
+  },
+  "keywords": [
+    "holidays",
+    "country"
+  ],
+  "author": "Ravindu Manoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SL-CODE-LORDS/Holidays/issues"
+  },
+  "homepage": "https://github.com/SL-CODE-LORDS/Holidays#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
